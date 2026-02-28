@@ -32,7 +32,7 @@ Built a predictive model to detect patterns and generate insights, supported by 
 
 ### 🎯 Career Focus
 
-Seeking opportunities as a **Junior Data Analyst or BI Analyst** where I can contribute to business intelligence and analytics initiatives.
+Seeking opportunities as a **Data Analyst** where I can contribute to business intelligence and analytics initiatives.
 
 ---
 
