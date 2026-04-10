@@ -6,8 +6,11 @@
 ---
 
 ## 🚀 About Me
-I’m a Data Analyst with a background in Civil Engineering, specialized in transforming raw data into actionable insights.  
-I enjoy building end-to-end data workflows, from data cleaning and ETL pipelines to visualization and business insights.
+I’m a Data Analyst with a background in Civil Engineering, specialized in transforming raw data into actionable insights.
+
+I have hands-on experience building end-to-end data workflows, including data cleaning, ETL pipelines, data modeling, and visualization using Python, SQL, and AWS tools.
+
+I’m particularly interested in combining data analysis with data engineering practices to improve data quality, optimize processes, and support data-driven decision-making.
 
 ---
 
