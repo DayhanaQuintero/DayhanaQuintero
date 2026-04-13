@@ -36,10 +36,8 @@ and cloud tools to solve real-world business problems.
 
 ## 📊 GitHub Stats
 
-![Dayhana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DayhanaQuintero&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DayhanaQuintero&layout=compact&theme=tokyonight&hide_border=true)
-
+<img src="https://github-readme-stats.vercel.app/api?username=DayhanaQuintero&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayhanaQuintero&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
 ---
 
 ## 🌱 Currently Learning
