@@ -51,5 +51,6 @@ and cloud tools to solve real-world business problems.
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dayhana-quintero-data-analyst)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayhana.quintero@outlook.com)
+- 💼 [LinkedIn](https://linkedin.com/in/dayhana-quintero-data-analyst)
+- 🐙 [GitHub Portfolio](https://github.com/DayhanaQuintero)
+- 📧 dayhana.quintero@outlook.com
