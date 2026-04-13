@@ -1,76 +1,55 @@
+![banner](banner.png)
 # Hi, I'm Dayhana Quintero 👋
 
-💻 Data Analyst | Python | SQL | Data Visualization  
-📍 Mexico  
+### Data Analyst | Python · SQL · AWS | Civil Engineering Background
 
----
-
-## 🚀 About Me
-I’m a Data Analyst with a background in Civil Engineering, specialized in transforming raw data into actionable insights.
-
-I have hands-on experience building end-to-end data workflows, including data cleaning, ETL pipelines, data modeling, and visualization using Python, SQL, and AWS tools.
-
-I’m particularly interested in combining data analysis with data engineering practices to improve data quality, optimize processes, and support data-driven decision-making.
+Data Analyst focused on transforming data into actionable insights
+that drive operational and commercial decision-making.
+I build end-to-end analytical projects combining SQL, Python,
+and cloud tools to solve real-world business problems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📊 Data & Analytics
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-
-### 🗄️ Databases & SQL
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🔄 ETL & Data Processing
-![ETL](https://img.shields.io/badge/ETL-Processes-blue?style=for-the-badge)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Analysis-green?style=for-the-badge)
-![Data Modeling](https://img.shields.io/badge/Data%20Modeling-Star%20Schema-orange?style=for-the-badge)
-
-### ☁️ Cloud
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![AWS Glue](https://img.shields.io/badge/Glue-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Athena](https://img.shields.io/badge/Athena-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-### 📈 Visualization
-![Looker Studio](https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?style=for-the-badge)
-
-### 🧰 Tools
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-🔹 **Sales Data Analysis (EDA & Visualization)**  
-Analyzed sales data to identify trends by category, segment, and time, improving data-driven decision-making.
-
-🔹 **ETL Pipeline (CSV to SQL Server)**  
-Built a data pipeline for ingestion, cleaning, and validation, ensuring data consistency and quality.
-
-🔹 **Star Schema Data Mart**  
-Designed a dimensional model with fact and dimension tables to support KPI analysis.
-
-🔹 **Machine Learning Model & Visualization**  
-Developed a predictive model and generated insights supported by visualizations.
+| 🚀 Project | 🔍 Description | 🛠️ Tech |
+|-----------|----------------|---------|
+| [Vehicle Crime Risk Analysis](https://github.com/DayhanaQuintero/vehicle-crime-risk-analysis) | Classification of 32 Mexican states by vehicle crime risk level for an insurance company | Python, SARIMA, K-Means, SQLite, Looker Studio |
+| [Sales Analysis & Prediction](https://github.com/DayhanaQuintero/sales-analysis-prediction) | End-to-end sales performance analysis and forecasting by category and region | Python, ARIMA, SQL, AWS, Looker Studio |
+| [Real Estate ETL Pipeline](https://github.com/DayhanaQuintero/etl-housing-aws-spark) | Full ETL pipeline on 21,613 housing records using cloud services and Big Data | AWS S3/Glue/Athena, PySpark, SQL |
+| [SQL & NoSQL Database Modeling](https://github.com/DayhanaQuintero/database-modeling-sql-nosql) | Relational database design in SQL Server/PostgreSQL and NoSQL integration | SQL Server, PostgreSQL, MongoDB, Python |
 
 ---
 
-## 🎯 Career Focus
-Seeking opportunities as a **Data Analyst / BI Analyst**, where I can contribute to business intelligence and data-driven strategies.
+## 📊 GitHub Stats
+
+![Dayhana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DayhanaQuintero&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DayhanaQuintero&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Contact
-- LinkedIn: [https://www.linkedin.com/in/dayhana-quintero-data-analyst/](https://www.linkedin.com/in/dayhana-quintero-data-analyst/)
-- Email: dayhana.quintero@outlook.com
+## 🌱 Currently Learning
+- Advanced Machine Learning
+- Data Storytelling
+- Data Engineering best practices
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dayhana-quintero-data-analyst)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dayhana.quintero@outlook.com)
