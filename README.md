@@ -33,11 +33,10 @@ and cloud tools to solve real-world business problems.
 | [SQL & NoSQL Database Modeling](https://github.com/DayhanaQuintero/database-modeling-sql-nosql) | Relational database design in SQL Server/PostgreSQL and NoSQL integration | SQL Server, PostgreSQL, MongoDB, Python |
 
 ---
-
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=DayhanaQuintero&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DayhanaQuintero&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+![Stats](https://streak-stats.demolab.com?user=DayhanaQuintero&theme=tokyonight&hide_border=true)
+
 ---
 
 ## 🌱 Currently Learning
