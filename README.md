@@ -39,6 +39,12 @@ and cloud tools to solve real-world business problems.
 
 ---
 
+## 💻 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DayhanaQuintero&layout=compact&theme=tokyonight)
+
+---
+
 ## 🌱 Currently Learning
 - Advanced Machine Learning
 - Data Storytelling
