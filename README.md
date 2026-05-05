@@ -24,10 +24,10 @@ Data Analyst focused on transforming data into actionable insights that support 
 
 | 🚀 Project | 🔍 Description | 🛠️ Tech |
 |-----------|----------------|---------|
-| [Vehicle Crime Risk Analysis](https://github.com/DayhanaQuintero/vehicle-crime-risk-analysis) | Classification of 32 Mexican states by vehicle crime risk level for an insurance company | Python, SARIMA, K-Means, SQLite, Looker Studio |
-| [Sales Analysis & Prediction](https://github.com/DayhanaQuintero/sales-analysis-prediction) | End-to-end sales performance analysis and forecasting by category and region | Python, ARIMA, SQL, AWS, Looker Studio |
-| [Real Estate ETL Pipeline](https://github.com/DayhanaQuintero/etl-housing-aws-spark) | Full ETL pipeline on 21,613 housing records using cloud services and Big Data | AWS S3/Glue/Athena, PySpark, SQL |
-| [SQL & NoSQL Database Modeling](https://github.com/DayhanaQuintero/database-modeling-sql-nosql) | Relational database design in SQL Server/PostgreSQL and NoSQL integration | SQL Server, PostgreSQL, MongoDB, Python |
+| [Vehicle Crime Risk Analysis](https://github.com/DayhanaQuintero/vehicle-crime-risk-analysis) | Risk classification of 32 Mexican states using time series and clustering models to support insurance pricing and risk management | Python, SARIMA, K-Means, SQLite, Looker Studio |
+| [Sales Analysis & Prediction](https://github.com/DayhanaQuintero/sales-analysis-prediction) | End-to-end sales analysis and forecasting by category and region to support strategic business decisions | Python, ARIMA, SQL, AWS, Looker Studio |
+| [Real Estate ETL Pipeline](https://github.com/DayhanaQuintero/etl-housing-aws-spark) | End-to-end ETL pipeline processing 21,613 housing records using AWS and PySpark for scalable data analysis | AWS S3/Glue/Athena, PySpark, SQL |
+| [SQL & NoSQL Database Modeling](https://github.com/DayhanaQuintero/database-modeling-sql-nosql) | Relational database design and NoSQL integration for efficient data storage, querying, and analysis | SQL Server, PostgreSQL, MongoDB, Python |
 
 ---
 
