@@ -1,7 +1,7 @@
 ![banner](banner.png)
 # Hi, I'm Dayhana Quintero 👋
 
-### Data Analyst | Python · SQL · AWS | Civil Engineering Background
+### Data Analyst | Python · SQL · AWS | Data Visualization · ETL · ML  
 
 Data Analyst focused on transforming data into actionable insights
 that drive operational and commercial decision-making.
