@@ -35,9 +35,9 @@ and cloud tools to solve real-world business problems.
 ---
 
 ## 🌱 Currently Learning
-- Advanced Machine Learning
-- Data Storytelling
-- Data Engineering best practices
+- Advanced Machine Learning (model optimization & evaluation)
+- Data Storytelling for business insights
+- Data Engineering (ETL pipelines & cloud architecture)
 
 ---
 
