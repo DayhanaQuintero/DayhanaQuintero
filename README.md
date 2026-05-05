@@ -3,10 +3,7 @@
 
 ### Data Analyst | Python · SQL · AWS | Data Visualization · ETL · ML  
 
-Data Analyst focused on transforming data into actionable insights
-that drive operational and commercial decision-making.
-I build end-to-end analytical projects combining SQL, Python,
-and cloud tools to solve real-world business problems.
+Data Analyst focused on transforming data into actionable insights that support business decision-making. I develop end-to-end analytical solutions using Python, SQL, and AWS, including data cleaning, exploratory analysis, machine learning models, and data visualization to solve real-world problems.
 
 ---
 
